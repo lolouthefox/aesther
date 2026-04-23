@@ -9,7 +9,7 @@
 <div class="page-container">
 	<header class="page-header">
 		<h1>Aesther SMP</h1>
-		<p class="version">Version 1.1</p>
+		<p class="version">Vanilla+ & exploration.</p>
 	</header>
 
 	<main class="packs-grid">
