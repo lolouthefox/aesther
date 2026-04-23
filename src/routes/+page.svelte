@@ -9,7 +9,7 @@
 <div class="page-container">
 	<header class="page-header">
 		<h1>Aesther SMP</h1>
-		<p class="version">Version 1</p>
+		<p class="version">Version 1.0</p>
 	</header>
 
 	<main class="packs-grid">
@@ -24,21 +24,21 @@
 				</p>
 				<div class="links">
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/latest/Aesther_modrinth.mrpack"
+						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther_modrinth.mrpack"
 						rel="external"
 					>
 						Modrinth App
 						<span>.mrpack</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/latest/Aesther_prism.zip"
+						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther_prism.zip"
 						rel="external"
 					>
 						Prism Launcher
 						<span>.zip</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/latest/Aesther_curseforge.zip"
+						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther_curseforge.zip"
 						rel="external"
 					>
 						CurseForge
@@ -60,21 +60,21 @@
 				</p>
 				<div class="links">
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/latest/AestherLite_modrinth.mrpack"
+						href="https://github.com/lolouthefox/aesther/releases/latest/download/AestherLite_modrinth.mrpack"
 						rel="external"
 					>
 						Modrinth App
 						<span>.mrpack</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/latest/AestherLite_prism.zip"
+						href="https://github.com/lolouthefox/aesther/releases/latest/download/AestherLite_prism.zip"
 						rel="external"
 					>
 						Prism Launcher
 						<span>.zip</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/latest/AestherLite_curseforge.zip"
+						href="https://github.com/lolouthefox/aesther/releases/latest/download/AestherLite_curseforge.zip"
 						rel="external"
 					>
 						CurseForge
