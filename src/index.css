@@ -1,0 +1,29 @@
+@import "https://api.fontshare.com/v2/css?f[]=satoshi@1,2&display=swap";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Full version colors */
+    --primary-color: #5D324D;
+    --dark-color: #37222F;
+    --light-color: #FFCAEC;
+
+    /* Lite version colors */
+    --lite-primary-color: #5D4932;
+    --lite-dark-color: #3A3024;
+    --lite-light-color: #FFE6CA;
+}
+
+body {
+	font-family: 'Satoshi', sans-serif;
+	background-color: var(--dark-color);
+	color: var(--light-color);
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+	padding: 2rem;
+}
