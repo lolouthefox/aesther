@@ -24,21 +24,21 @@
 				</p>
 				<div class="links">
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/Aesther_modrinth.mrpack"
+						href="https://github.com/lolouthefox/aesther/releases/download/latest/Aesther_modrinth.mrpack"
 						rel="external"
 					>
 						Modrinth App
 						<span>.mrpack</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/Aesther_prism.zip"
+						href="https://github.com/lolouthefox/aesther/releases/download/latest/Aesther_prism.zip"
 						rel="external"
 					>
 						Prism Launcher
 						<span>.zip</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/Aesther_curseforge.zip"
+						href="https://github.com/lolouthefox/aesther/releases/download/latest/Aesther_curseforge.zip"
 						rel="external"
 					>
 						CurseForge
@@ -60,21 +60,21 @@
 				</p>
 				<div class="links">
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/AestherLite_modrinth.mrpack"
+						href="https://github.com/lolouthefox/aesther/releases/download/latest/AestherLite_modrinth.mrpack"
 						rel="external"
 					>
 						Modrinth App
 						<span>.mrpack</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/AestherLite_prism.zip"
+						href="https://github.com/lolouthefox/aesther/releases/download/latest/AestherLite_prism.zip"
 						rel="external"
 					>
 						Prism Launcher
 						<span>.zip</span>
 					</a>
 					<a
-						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/AestherLite_curseforge.zip"
+						href="https://github.com/lolouthefox/aesther/releases/download/latest/AestherLite_curseforge.zip"
 						rel="external"
 					>
 						CurseForge
