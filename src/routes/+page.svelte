@@ -27,15 +27,8 @@
 						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther_modrinth.mrpack"
 						rel="external"
 					>
-						Modrinth App
+						Modrinth/Prism App
 						<span>.mrpack</span>
-					</a>
-					<a
-						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther_prism.zip"
-						rel="external"
-					>
-						Prism Launcher
-						<span>.zip</span>
 					</a>
 					<a
 						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther_curseforge.zip"
@@ -63,15 +56,8 @@
 						href="https://github.com/lolouthefox/aesther/releases/latest/download/AestherLite_modrinth.mrpack"
 						rel="external"
 					>
-						Modrinth App
+						Modrinth/Prism App
 						<span>.mrpack</span>
-					</a>
-					<a
-						href="https://github.com/lolouthefox/aesther/releases/latest/download/AestherLite_prism.zip"
-						rel="external"
-					>
-						Prism Launcher
-						<span>.zip</span>
 					</a>
 					<a
 						href="https://github.com/lolouthefox/aesther/releases/latest/download/AestherLite_curseforge.zip"
