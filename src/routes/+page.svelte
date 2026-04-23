@@ -23,15 +23,24 @@
 					Voxy for extended chunk rendering. A powerful computer is recommended.
 				</p>
 				<div class="links">
-					<a href="/modpack/Aesther.mrpack" rel="external">
+					<a
+						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/Aesther_modrinth.mrpack"
+						rel="external"
+					>
 						Modrinth App
 						<span>.mrpack</span>
 					</a>
-					<a href="/modpack/Aesther.zip" rel="external">
+					<a
+						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/Aesther_prism.zip"
+						rel="external"
+					>
 						Prism Launcher
 						<span>.zip</span>
 					</a>
-					<a href="/modpack/Aesther_curseforge.zip" rel="external">
+					<a
+						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/Aesther_curseforge.zip"
+						rel="external"
+					>
 						CurseForge
 						<span>.zip</span>
 					</a>
@@ -50,15 +59,24 @@
 					Voxy have been removed for performance, but the core experience remains.
 				</p>
 				<div class="links">
-					<a href="/modpack/Aesther Lite.mrpack" rel="external">
+					<a
+						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/AestherLite_modrinth.mrpack"
+						rel="external"
+					>
 						Modrinth App
 						<span>.mrpack</span>
 					</a>
-					<a href="/modpack/Aesther Lite.zip" rel="external">
+					<a
+						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/AestherLite_prism.zip"
+						rel="external"
+					>
 						Prism Launcher
 						<span>.zip</span>
 					</a>
-					<a href="/modpack/Aesther Lite_curseforge.zip" rel="external">
+					<a
+						href="https://github.com/lolouthefox/aesther/releases/download/v1.0-alpha/AestherLite_curseforge.zip"
+						rel="external"
+					>
 						CurseForge
 						<span>.zip</span>
 					</a>
