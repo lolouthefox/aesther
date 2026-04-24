@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Countdown from '$lib/components/Countdown.svelte';
 
-	const targetDate = new Date('2026-04-24T19:00:00+02:00'); // Paris time (CEST)
+	const targetDate = new Date('2026-04-24T22:30:00+02:00'); // Paris time (CEST)
 </script>
 
 <svelte:head>
@@ -15,7 +15,7 @@
 <div class="page-container">
 	<header class="page-header">
 		<h1>Aesther SMP</h1>
-		<p class="version">Vanilla+ & exploration.</p>
+		<p class="version">Vanilla+ & Industry.</p>
 	</header>
 
 	<main class="packs-grid">
@@ -37,11 +37,10 @@
 						<span>.mrpack</span>
 					</a>
 				</div>
-				<p class="ram-note">Requires at least 10GB of RAM.</p>
 			</div>
 		</section>
 
-		<section class="pack lite">
+		<section class="pack lite disabled">
 			<div class="pack-header">
 				<img src="/branding/aesther-lite-logo.png" alt="Aesther Lite Logo" class="logo" />
 			</div>
@@ -55,11 +54,10 @@
 						href="https://github.com/lolouthefox/aesther/releases/latest/download/Aesther.Lite.mrpack"
 						rel="external"
 					>
-						Download Lite
+						COMMING SOON
 						<span>.mrpack</span>
 					</a>
 				</div>
-				<p class="ram-note">Requires at least 8GB of RAM.</p>
 			</div>
 		</section>
 	</main>
@@ -185,6 +183,11 @@
 		font-size: 0.9rem;
 		opacity: 0.7;
 		margin-top: 1rem;
+	}
+
+	.disabled {
+		opacity: 0.5;
+		pointer-events: none;
 	}
 
 	@media (max-width: 900px) {
