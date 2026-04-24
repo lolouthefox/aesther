@@ -1,3 +1,9 @@
+<script lang="ts">
+	import Countdown from '$lib/components/Countdown.svelte';
+
+	const targetDate = new Date('2026-04-24T19:00:00+02:00'); // Paris time (CEST)
+</script>
+
 <svelte:head>
 	<title>Aesther SMP - Modpack Downloads</title>
 	<meta
@@ -57,6 +63,10 @@
 			</div>
 		</section>
 	</main>
+
+	<section>
+		<Countdown {targetDate} />
+	</section>
 </div>
 
 <style>
